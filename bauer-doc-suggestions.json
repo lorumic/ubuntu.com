@@ -1,0 +1,143 @@
+{
+  "document_title": "Copy of install - \"LXD webpage\"",
+  "document_id": "1-1y6Z6zBJPlEsV4_aXpiBhJHZj4VRhLYUIukToxKs0U",
+  "metadata": {
+    "raw": {
+      "*Current page URL (if applicable)": "https://ubuntu.com/lxd/install",
+      "*Page owner (writer and department)": "",
+      "*Suggested page URL (if applicable)": "http://canonical.com/lxd/install",
+      "Main CTA (call to action)": "",
+      "Page description (160 characters max)": "Run system containers with LXD",
+      "Page title (60 characters max)": "Install LXD",
+      "Page type (choose from drop down)": "",
+      "Stage in the funnel": "",
+      "Target audience (choose from drop down)": "",
+      "Top three SEO keywords": ""
+    },
+    "page_title": "Install LXD",
+    "page_description": "Run system containers with LXD",
+    "suggested_url": "http://canonical.com/lxd/install",
+    "table_start_index": 19,
+    "table_end_index": 499
+  },
+  "actionable_suggestions": [
+    {
+      "id": "suggest.1hwgrfvuc7l9",
+      "anchor": {
+        "preceding_text": "about how to resolve these issues \u003e\n\nTEMPLATE BASIC TEXT + SUBHEADINGS\nFamiliari",
+        "following_text": "se yourself with the basics\n\n\n\nInstances\n\nLXD supports two types of instances: s"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "z"
+      },
+      "verification": {
+        "text_before_change": "about how to resolve these issues \u003e\n\nTEMPLATE BASIC TEXT + SUBHEADINGS\nFamiliarise yourself with the basics\n\n\n\nInstances\n\nLXD supports two types of instances: s",
+        "text_after_change": "about how to resolve these issues \u003e\n\nTEMPLATE BASIC TEXT + SUBHEADINGS\nFamiliarizse yourself with the basics\n\n\n\nInstances\n\nLXD supports two types of instances: s"
+      },
+      "location": {
+        "section": "Body",
+        "in_table": true,
+        "table": {
+          "table_index": 5,
+          "table_id": "table-5",
+          "table_title": "TEMPLATE BASIC TEXT + SUBHEADINGS",
+          "row_index": 1,
+          "column_index": 1,
+          "column_header": "Familiarizse yourself with the basics",
+          "row_header": "Familiarizse yourself with the basics"
+        },
+        "in_metadata": false
+      },
+      "position": {
+        "start_index": 2034,
+        "end_index": 2035
+      }
+    },
+    {
+      "id": "suggest.1hwgrfvuc7l9",
+      "anchor": {
+        "preceding_text": "bout how to resolve these issues \u003e\n\nTEMPLATE BASIC TEXT + SUBHEADINGS\nFamiliariz",
+        "following_text": "e yourself with the basics\n\n\n\nInstances\n\nLXD supports two types of instances: sy"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "s"
+      },
+      "verification": {
+        "text_before_change": "bout how to resolve these issues \u003e\n\nTEMPLATE BASIC TEXT + SUBHEADINGS\nFamiliarizse yourself with the basics\n\n\n\nInstances\n\nLXD supports two types of instances: sy",
+        "text_after_change": "bout how to resolve these issues \u003e\n\nTEMPLATE BASIC TEXT + SUBHEADINGS\nFamiliarize yourself with the basics\n\n\n\nInstances\n\nLXD supports two types of instances: sy"
+      },
+      "location": {
+        "section": "Body",
+        "in_table": true,
+        "table": {
+          "table_index": 5,
+          "table_id": "table-5",
+          "table_title": "TEMPLATE BASIC TEXT + SUBHEADINGS",
+          "row_index": 1,
+          "column_index": 1,
+          "column_header": "Familiarizse yourself with the basics",
+          "row_header": "Familiarizse yourself with the basics"
+        },
+        "in_metadata": false
+      },
+      "position": {
+        "start_index": 2035,
+        "end_index": 2036
+      }
+    }
+  ],
+  "grouped_suggestions": [
+    {
+      "location": {
+        "section": "Body",
+        "in_table": true,
+        "table": {
+          "table_index": 5,
+          "table_id": "table-5",
+          "table_title": "TEMPLATE BASIC TEXT + SUBHEADINGS",
+          "row_index": 1,
+          "column_index": 1,
+          "column_header": "Familiarizse yourself with the basics",
+          "row_header": "Familiarizse yourself with the basics"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.1hwgrfvuc7l9",
+          "anchor": {
+            "preceding_text": " on the same host.\nAccess documentation about how to resolve these issues \u003e\n\nTEMPLATE BASIC TEXT + SUBHEADINGS\nFamiliari",
+            "following_text": "e yourself with the basics\n\n\n\nInstances\n\nLXD supports two types of instances: system containers and virtual machines.\nLe"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "s",
+            "new_text": "z"
+          },
+          "verification": {
+            "text_before_change": " on the same host.\nAccess documentation about how to resolve these issues \u003e\n\nTEMPLATE BASIC TEXT + SUBHEADINGS\nFamiliarise yourself with the basics\n\n\n\nInstances\n\nLXD supports two types of instances: system containers and virtual machines.\nLe",
+            "text_after_change": " on the same host.\nAccess documentation about how to resolve these issues \u003e\n\nTEMPLATE BASIC TEXT + SUBHEADINGS\nFamiliarize yourself with the basics\n\n\n\nInstances\n\nLXD supports two types of instances: system containers and virtual machines.\nLe"
+          },
+          "position": {
+            "start_index": 2034,
+            "end_index": 2036
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": "z"
+            },
+            {
+              "type": "delete",
+              "original_text": "s"
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    }
+  ],
+  "comments": null
+}
